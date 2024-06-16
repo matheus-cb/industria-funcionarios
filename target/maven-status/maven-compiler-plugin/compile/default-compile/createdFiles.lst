@@ -1,0 +1,6 @@
+com/example/funcionarios/repository/FuncionarioRepository.class
+com/example/funcionarios/model/Pessoa.class
+com/example/funcionarios/service/FuncionarioService.class
+com/example/funcionarios/IndustriaFuncionariosApplication.class
+com/example/funcionarios/model/Funcionario.class
+com/example/funcionarios/controller/FuncionarioController.class
